@@ -1,0 +1,70 @@
+0
+odd			奇数
+even			偶数
+sum			和
+avg			平均值
+temp			临时值
+string			字符串
+length			长度
+number			数字
+boolean			布尔
+null			空
+undefined		未定义
+parseInt		取整
+parseFloat		取浮点值
+NaN			不是一个数字  
+rote			利率
+money			钱
+
+continue		继续（跳出本次循环，进入下次循环）
+break			突破（跳出下面的所有循环）
+return			切断函数并返回一个值
+for			循环
+while			循环
+array			数组
+length			长度
+max			最大值
+min			最小值
+reverse			反转
+bubble			冒泡
+long			长度
+area			面积
+sort			排序
+prime			素数、最好的、最棒的
+array			数组
+
+
+object			对象
+new 			新的
+this			这个
+flag			旗帜，标识
+custum			习惯，顾客（custumer）
+people			人
+student			学生
+teacher			老师
+attack			攻击
+level 			等级
+say			说（打招呼）
+money			银子（钱）
+
+
+Math			数学
+ceil			天花板
+floor			地板
+round			操场
+random			随机
+abs			局对值
+instanceof		运算符
+push			推入
+pop			取出
+shift			取出
+unshift			添加
+concat			链接
+slice			截取
+splice			删除某部分
+index			索引
+every			每一个
+filter			过滤
+foreach			遍历
+sqrt			开平方
+pow			数的几次方

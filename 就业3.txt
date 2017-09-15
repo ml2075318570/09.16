@@ -1,0 +1,77 @@
+jquery			框架/特效
+ready(瑞迪)		准备
+eq(一扣)			等于
+odd			奇数
+even			偶数
+css			样式
+find			查找
+children		孩子
+siblings(赛补令滋)	兄弟们
+parent			父亲
+addClass		添加类
+removeClass		删除类
+hasClass		有没有类
+toggleClass(偷够渴辣思)	切换类
+show			显示
+hide			隐藏
+slideDown(思赖得荡)	向下展开
+slideUp			向上展开
+slideToggle		展开切换
+fadeIn(肺得in)		谈谈进入视野
+fadeOut			谈谈消失出视野
+fadeToggle		进入/消失视野切换
+fadeTo			固定时间转入透明度		
+animate			自定义动画
+stop			停止动画
+append			添加（子元素）
+appendTo		添加
+prepend(普瑞喷得)	在某个节点前添加
+after			在后面添加（兄弟）
+before			在之前添加（兄弟元素）
+html			内容
+empty(按坡替)		清空
+clone			赋值
+attr(A-T-T-R)		属性
+removeAttr		删除属性
+val			值
+text			值
+height			高
+width			宽
+offset().top		距离文档顶端距离
+offset().left		距离文档左侧距离
+positon().top		距离有定位的父盒子顶端距离		
+positon().left		距离有定位的父盒子左侧距离
+scrollTop();		被卷去的头部
+scrollLeft();		被卷去的左侧
+bind(殡的)				绑定事件
+delegate(呆哩给t)			绑定事件
+on					绑定事件
+unbind(按殡的)				事件解绑
+undelegate(按殡呆哩给t)			事件解绑
+off					事件解绑
+trigger(吹哥儿)				事件绑定
+triggerHandler(吹哥儿憨得乐儿)		事件绑定
+each					遍历、
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
